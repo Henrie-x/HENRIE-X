@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="380" viewBox="0 0 600 380" role="img" aria-labelledby="title desc">
+  <title id="title">Technology labels — dark theme</title>
+  <desc id="desc">Text-only outlined chips list technologies used in audited projects and technologies currently being learned and practised.</desc>
+  <rect width="600" height="380" rx="22" fill="#0B0F19"/>
+  <text x="28" y="46" fill="#A5F3FC" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="1.5">USED IN MY PROJECTS</text>
+  <g fill="#111827" stroke="#22D3EE" stroke-width="1.5">
+    <rect x="28" y="68" width="104" height="48" rx="24"/>
+    <rect x="144" y="68" width="92" height="48" rx="24"/>
+    <rect x="248" y="68" width="142" height="48" rx="24"/>
+    <rect x="402" y="68" width="112" height="48" rx="24"/>
+    <rect x="28" y="130" width="170" height="48" rx="24"/>
+    <rect x="210" y="130" width="174" height="48" rx="24"/>
+    <rect x="396" y="130" width="92" height="48" rx="24"/>
+  </g>
+  <g fill="#E5E7EB" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+    <text x="80" y="99">HTML</text>
+    <text x="190" y="99">CSS</text>
+    <text x="319" y="99">JavaScript</text>
+    <text x="458" y="99">React</text>
+    <text x="113" y="161">React Router</text>
+    <text x="297" y="161">Tailwind CSS</text>
+    <text x="442" y="161">Vite</text>
+  </g>
+  <text x="28" y="230" fill="#A5F3FC" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="1.2">CURRENTLY LEARNING · PRACTISING</text>
+  <g fill="#111827" stroke="#22D3EE" stroke-width="1.5">
+    <rect x="28" y="252" width="150" height="48" rx="24"/>
+    <rect x="190" y="252" width="112" height="48" rx="24"/>
+    <rect x="314" y="252" width="166" height="48" rx="24"/>
+    <rect x="28" y="314" width="224" height="48" rx="24"/>
+  </g>
+  <g fill="#E5E7EB" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+    <text x="103" y="283">JavaScript</text>
+    <text x="246" y="283">React</text>
+    <text x="397" y="283">PostgreSQL</text>
+    <text x="140" y="345">Python fundamentals</text>
+  </g>
+</svg>
