@@ -29,7 +29,7 @@
 ### Portfolio-V1-test
 
 <p align="center">
-  <img src="assets/projects/Screenshot_20261110-070532_1.png" alt="Screenshot of Portfolio-V1-test: a light portfolio landing page with a navigation bar, a frontend developer badge, and a heading introducing a UI designer" width="360">
+  <img src="assets/projects/1794292913983.jpg" alt="Screenshot of the Portfolio-V1-test portfolio prototype running in the browser" width="360">
 </p>
 
 A multi-section personal portfolio prototype with project, services, and about sections. Its contact form currently simulates a sent message in client-side code; it does not deliver messages.
@@ -40,7 +40,7 @@ A multi-section personal portfolio prototype with project, services, and about s
 ### Tic-Tac-Toe
 
 <p align="center">
-  <img src="assets/projects/Screenshot_20261110-070517_1.png" alt="Screenshot of Tic-Tac-Toe: a dark game board with X and O marks, play-versus-computer and play-versus-human modes, and a restart button" width="360">
+  <img src="assets/projects/1794292920063.jpg" alt="Screenshot of the Tic-Tac-Toe browser game running in the browser" width="360">
 </p>
 
 A browser game with player-versus-player and player-versus-computer modes, win and draw detection, and a restart control.
@@ -51,7 +51,7 @@ A browser game with player-versus-player and player-versus-computer modes, win a
 ### watch-and-earn
 
 <p align="center">
-  <img src="assets/projects/Screenshot_20261110-070555_1.png" alt="Screenshot of watch-and-earn: a light landing page headed Turn Your Time Into Rewards, with sign-up and login buttons and a balance and points card" width="360">
+  <img src="assets/projects/1794292924572.jpg" alt="Screenshot of the watch-and-earn rewards-platform prototype running in the browser" width="360">
 </p>
 
 A rewards-platform prototype with account, dashboard, video, points, and withdrawal interfaces. The project uses browser storage for basic data; it is not a production-ready financial service.
@@ -72,14 +72,14 @@ A movie-search frontend using the OMDb API. It supports searching titles, saving
 
 ### E-commerce-
 
-<picture>
-  <img src="assets/projects/E-commerce-.svg" alt="Original illustration for E-commerce-: a product grid and a shopping cart panel" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/projects/1794292910444.jpg" alt="Screenshot of the E-commerce- storefront prototype running in the browser" width="360">
+</p>
 
 An e-commerce storefront prototype with local sample product data and browser-stored cart state. The repository README notes that it has no backend, database, payment gateway, or server-side order processing.
 
 **Stack:** React · JavaScript · Tailwind CSS · Vite  
-[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-5zdr.vercel.app/)
+[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-puce-one-43.vercel.app/)
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
