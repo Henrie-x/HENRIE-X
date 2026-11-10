@@ -83,9 +83,14 @@ An e-commerce storefront prototype with local sample product data and browser-st
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
-## About me
+## GitHub activity
 
-My projects are a way to make software concepts tangible: a game’s rules, a movie search, or a cart that keeps its state. I’m building toward full-stack AI product engineering, with JavaScript and React practice alongside Python fundamentals and PostgreSQL.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henrie-x/HENRIE-X/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Henrie-x/HENRIE-X/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake moving through my GitHub contribution graph" width="100%">
+  </picture>
+</p>
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
