@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="68" viewBox="0 0 600 68" role="img" aria-labelledby="title desc">
+  <title id="title">Animated project notes</title>
+  <desc id="desc">Cycles through four notes about work shown in the profile: building with React, browser game logic, movie search and saved favourites, and locally stored cart state.</desc>
+  <rect x="1" y="1" width="598" height="66" rx="14" fill="#111827" stroke="#1F2937"/>
+  <circle cx="30" cy="34" r="5" fill="#22D3EE"/>
+  <g fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">
+    <text x="50" y="41" opacity="0">Building with React<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.22;0.25;1" dur="12s" repeatCount="indefinite"/></text>
+    <text x="50" y="41" opacity="0">Browser game logic<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.22;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+    <text x="50" y="41" opacity="0">Search and saved favourites<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.22;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+    <text x="50" y="41" opacity="0">Cart state in the browser<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.02;0.22;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
