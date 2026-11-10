@@ -79,7 +79,7 @@ A movie-search frontend using the OMDb API. It supports searching titles, saving
 An e-commerce storefront prototype with local sample product data and browser-stored cart state. The repository README notes that it has no backend, database, payment gateway, or server-side order processing.
 
 **Stack:** React · JavaScript · Tailwind CSS · Vite  
-[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-puce-one-43.vercel.app/)
+[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-5zdr.vercel.app/)
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
