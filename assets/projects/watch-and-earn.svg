@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">watch-and-earn project illustration</title>
+  <desc id="desc">A dashboard concept connecting a video panel with points and account panels.</desc>
+  <rect width="1200" height="460" rx="24" fill="#0B0F19"/>
+  <text x="72" y="92" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="22" letter-spacing="2">REWARDS PLATFORM · PROTOTYPE</text>
+  <text x="72" y="151" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="34" font-weight="700">Watch, track, review.</text>
+  <text x="72" y="190" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">A multi-page interface concept</text>
+  <rect x="72" y="221" width="352" height="166" rx="16" fill="#111827" stroke="#1F2937"/>
+  <rect x="92" y="241" width="312" height="126" rx="11" fill="#172033"/>
+  <circle cx="248" cy="304" r="31" fill="#164E63"/>
+  <path d="m241 287 28 17-28 17z" fill="#CFFAFE"/>
+  <rect x="472" y="221" width="286" height="166" rx="16" fill="#111827" stroke="#1F2937"/>
+  <text x="500" y="260" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22" letter-spacing="1">POINTS</text>
+  <path d="M500 285h178" stroke="#22D3EE" stroke-opacity=".55" stroke-width="7" stroke-linecap="round"/>
+  <path d="M500 314h128" stroke="#334155" stroke-width="7" stroke-linecap="round"/>
+  <path d="M500 343h152" stroke="#334155" stroke-width="7" stroke-linecap="round"/>
+  <rect x="806" y="221" width="322" height="166" rx="16" fill="#111827" stroke="#1F2937"/>
+  <text x="834" y="260" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22" letter-spacing="1">ACCOUNT</text>
+  <rect x="834" y="278" width="250" height="34" rx="8" fill="#172033"/>
+  <rect x="834" y="324" width="170" height="34" rx="8" fill="#172033"/>
+  <circle cx="1090" cy="295" r="7" fill="#22D3EE"/>
+  <circle cx="1010" cy="341" r="7" fill="#22D3EE" opacity=".6"/>
+</svg>
