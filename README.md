@@ -1,54 +1,96 @@
-Hey, I'm Henrie 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-dark.svg" alt="Henrie — Aspiring Full-Stack AI Product Engineer" width="100%">
+  </picture>
+</p>
 
-Software Engineering • Full-Stack Development • AI-powered Products
+<p align="center">
+  I build small, usable web products—from interactive browser experiences to React applications—and use each one to understand how interface, state, and behavior fit together.
+</p>
 
-I'm a developer in progress who enjoys turning ideas into useful digital products. I learn by building, experimenting, debugging, and improving real projects.
+<p align="center">
+  <img src="assets/typing.svg" alt="Animated project notes: Building with React; Browser game logic; Search and saved favourites; Cart state in the browser" width="100%">
+</p>
 
-My long-term goal is to become a Full-Stack AI Product Engineer — someone who can build complete applications and bring useful AI capabilities into them.
+<img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
----
+## Tech showcase
 
-What I'm working towards
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/tech-chips-light.svg">
+  <img src="assets/tech-chips-dark.svg" alt="Technology labels: HTML, CSS, JavaScript, React, React Router, Tailwind CSS, Vite; currently learning JavaScript, React, PostgreSQL, Python fundamentals" width="100%">
+</picture>
 
-- Building stronger JavaScript and problem-solving skills
-- Creating interactive web applications with React
-- Learning backend development, APIs, and PostgreSQL
-- Exploring Python and AI application development
-- Improving my understanding of software engineering fundamentals
+<img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
-Technologies
+## Featured projects
 
-Working with:
+### Portfolio-V1-test
 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+<picture>
+  <img src="assets/projects/Portfolio-V1-test.svg" alt="Original illustration for Portfolio-V1-test: a portfolio page layout with sections for introduction, work, and contact" width="100%">
+</picture>
 
-Learning and exploring:
+A multi-section personal portfolio prototype with project, services, and about sections. Its contact form currently simulates a sent message in client-side code; it does not deliver messages.
 
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff) 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+**Stack:** HTML · CSS · JavaScript  
+[Repository](https://github.com/Henrie-x/Portfolio-V1-test)
 
-Selected projects
+### Tic-Tac-Toe
 
-Project| What it is
-"PULSE" (https://github.com/Henrie-x/Personal-activity-dashboard-)| A personal activity dashboard with task management, filtering, search, and local storage. "Live demo" (https://personal-activity-dashboard.vercel.app/)
-"AFTERHOURS" (https://github.com/Henrie-x/afterhours---react---version)| A dark, atmospheric web experience built while exploring React.
-"LivePulse Analytics" (https://github.com/Henrie-x/livepulse-analytics)| A live analytics dashboard exploring dynamic data and SVG visualisation.
-"Thoughts Public Wall" (https://github.com/Henrie-x/thoughts-public-wall)| A public wall project built around sharing short thoughts.
+<picture>
+  <img src="assets/projects/Tic-Tac-Toe.svg" alt="Original illustration for Tic-Tac-Toe: a three-by-three game board with X and O marks" width="100%">
+</picture>
 
-A little about me
+A browser game with player-versus-player and player-versus-computer modes, win and draw detection, and a restart control.
 
-- I believe in learning by building.
-- I enjoy solving problems and understanding how things work behind the scenes.
-- I'm interested in software engineering, backend systems, and practical AI.
+**Stack:** HTML · CSS · JavaScript  
+[Repository](https://github.com/Henrie-x/Tic-Tac-Toe)
 
-Let's connect
+### watch-and-earn
 
-""GitHub" (https://img.shields.io/badge/GitHub-Henrie--x-181717?style=flat-square&logo=github)" (https://github.com/Henrie-x)
+<picture>
+  <img src="assets/projects/watch-and-earn.svg" alt="Original illustration for watch-and-earn: a video panel connected to a points and dashboard interface" width="100%">
+</picture>
 
----
+A rewards-platform prototype with account, dashboard, video, points, and withdrawal interfaces. The project uses browser storage for basic data; it is not a production-ready financial service.
 
-Still learning. Still building. Getting better with every project.
+**Stack:** React · JavaScript · React Router · Vite  
+[Repository](https://github.com/Henrie-x/watch-and-earn)
+
+### cineva-movies
+
+<picture>
+  <img src="assets/projects/cineva-movies.svg" alt="Original illustration for cineva-movies: movie search, poster tiles, and a saved-favourites marker" width="100%">
+</picture>
+
+A movie-search frontend using the OMDb API. It supports searching titles, saving and removing favourites, and storing favourites in the browser.
+
+**Stack:** React · JavaScript · CSS · Vite  
+[Repository](https://github.com/Henrie-x/cineva-movies)
+
+### E-commerce-
+
+<picture>
+  <img src="assets/projects/E-commerce-.svg" alt="Original illustration for E-commerce-: a product grid and a shopping cart panel" width="100%">
+</picture>
+
+An e-commerce storefront prototype with local sample product data and browser-stored cart state. The repository README notes that it has no backend, database, payment gateway, or server-side order processing.
+
+**Stack:** React · JavaScript · Tailwind CSS · Vite  
+[Repository](https://github.com/Henrie-x/E-commerce-)
+
+<img src="assets/dividers/section-rule.svg" alt="" width="100%">
+
+## About me
+
+My projects are a way to make software concepts tangible: a game’s rules, a movie search, or a cart that keeps its state. I’m building toward full-stack AI product engineering, with JavaScript and React practice alongside Python fundamentals and PostgreSQL.
+
+<img src="assets/dividers/section-rule.svg" alt="" width="100%">
+
+## Connect
+
+- [GitHub](https://github.com/Henrie-x)
+- [Email](mailto:ogbonnah404@gmail.com)
+- [X](https://x.com/HenryOgbon45088)
