@@ -28,9 +28,9 @@
 
 ### Portfolio-V1-test
 
-<picture>
-  <img src="assets/projects/Portfolio-V1-test.svg" alt="Original illustration for Portfolio-V1-test: a portfolio page layout with sections for introduction, work, and contact" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/projects/Screenshot_20261110-070532_1.png" alt="Screenshot of Portfolio-V1-test: a light portfolio landing page with a navigation bar, a frontend developer badge, and a heading introducing a UI designer" width="360">
+</p>
 
 A multi-section personal portfolio prototype with project, services, and about sections. Its contact form currently simulates a sent message in client-side code; it does not deliver messages.
 
@@ -39,9 +39,9 @@ A multi-section personal portfolio prototype with project, services, and about s
 
 ### Tic-Tac-Toe
 
-<picture>
-  <img src="assets/projects/Tic-Tac-Toe.svg" alt="Original illustration for Tic-Tac-Toe: a three-by-three game board with X and O marks" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/projects/Screenshot_20261110-070517_1.png" alt="Screenshot of Tic-Tac-Toe: a dark game board with X and O marks, play-versus-computer and play-versus-human modes, and a restart button" width="360">
+</p>
 
 A browser game with player-versus-player and player-versus-computer modes, win and draw detection, and a restart control.
 
@@ -50,9 +50,9 @@ A browser game with player-versus-player and player-versus-computer modes, win a
 
 ### watch-and-earn
 
-<picture>
-  <img src="assets/projects/watch-and-earn.svg" alt="Original illustration for watch-and-earn: a video panel connected to a points and dashboard interface" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/projects/Screenshot_20261110-070555_1.png" alt="Screenshot of watch-and-earn: a light landing page headed Turn Your Time Into Rewards, with sign-up and login buttons and a balance and points card" width="360">
+</p>
 
 A rewards-platform prototype with account, dashboard, video, points, and withdrawal interfaces. The project uses browser storage for basic data; it is not a production-ready financial service.
 
@@ -61,9 +61,9 @@ A rewards-platform prototype with account, dashboard, video, points, and withdra
 
 ### cineva-movies
 
-<picture>
-  <img src="assets/projects/cineva-movies.svg" alt="Original illustration for cineva-movies: movie search, poster tiles, and a saved-favourites marker" width="100%">
-</picture>
+<p align="center">
+  <img src="assets/projects/Screenshot_20261110-070634_1.png" alt="Screenshot of cineva-movies: a dark movie-search page with a Cineva navigation bar, a Favorites link, and a search field" width="360">
+</p>
 
 A movie-search frontend using the OMDb API. It supports searching titles, saving and removing favourites, and storing favourites in the browser.
 
@@ -79,7 +79,7 @@ A movie-search frontend using the OMDb API. It supports searching titles, saving
 An e-commerce storefront prototype with local sample product data and browser-stored cart state. The repository README notes that it has no backend, database, payment gateway, or server-side order processing.
 
 **Stack:** React · JavaScript · Tailwind CSS · Vite  
-[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-5zdr.vercel.app/)
+[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-puce-one-43.vercel.app/)
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
