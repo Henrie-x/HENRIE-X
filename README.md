@@ -35,7 +35,7 @@
 A multi-section personal portfolio prototype with project, services, and about sections. Its contact form currently simulates a sent message in client-side code; it does not deliver messages.
 
 **Stack:** HTML · CSS · JavaScript  
-[Repository](https://github.com/Henrie-x/Portfolio-V1-test)
+[Repository](https://github.com/Henrie-x/Portfolio-V1-test) · [Live demo](https://portfolio-six-liard-ycxny8mivv.vercel.app/)
 
 ### Tic-Tac-Toe
 
@@ -46,7 +46,7 @@ A multi-section personal portfolio prototype with project, services, and about s
 A browser game with player-versus-player and player-versus-computer modes, win and draw detection, and a restart control.
 
 **Stack:** HTML · CSS · JavaScript  
-[Repository](https://github.com/Henrie-x/Tic-Tac-Toe)
+[Repository](https://github.com/Henrie-x/Tic-Tac-Toe) · [Live demo](https://tic-tac-toe-opal-eta-35.vercel.app/)
 
 ### watch-and-earn
 
@@ -57,7 +57,7 @@ A browser game with player-versus-player and player-versus-computer modes, win a
 A rewards-platform prototype with account, dashboard, video, points, and withdrawal interfaces. The project uses browser storage for basic data; it is not a production-ready financial service.
 
 **Stack:** React · JavaScript · React Router · Vite  
-[Repository](https://github.com/Henrie-x/watch-and-earn)
+[Repository](https://github.com/Henrie-x/watch-and-earn) · [Live demo](https://watch-and-earn-4fnb.vercel.app)
 
 ### cineva-movies
 
@@ -68,7 +68,7 @@ A rewards-platform prototype with account, dashboard, video, points, and withdra
 A movie-search frontend using the OMDb API. It supports searching titles, saving and removing favourites, and storing favourites in the browser.
 
 **Stack:** React · JavaScript · CSS · Vite  
-[Repository](https://github.com/Henrie-x/cineva-movies)
+[Repository](https://github.com/Henrie-x/cineva-movies) · [Live demo](https://cineva-movies.vercel.app/)
 
 ### E-commerce-
 
@@ -79,7 +79,7 @@ A movie-search frontend using the OMDb API. It supports searching titles, saving
 An e-commerce storefront prototype with local sample product data and browser-stored cart state. The repository README notes that it has no backend, database, payment gateway, or server-side order processing.
 
 **Stack:** React · JavaScript · Tailwind CSS · Vite  
-[Repository](https://github.com/Henrie-x/E-commerce-)
+[Repository](https://github.com/Henrie-x/E-commerce-) · [Live demo](https://e-commerce-puce-one-43.vercel.app/)
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
