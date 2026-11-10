@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="34" viewBox="0 0 900 34" role="img" aria-labelledby="title desc">
+  <title id="title">Section divider</title>
+  <desc id="desc">A fine cyan line with a small central accent.</desc>
+  <path d="M8 17H427M473 17H892" fill="none" stroke="#22D3EE" stroke-opacity=".35"/>
+  <path d="M439 17l11-7 11 7-11 7z" fill="#22D3EE"/>
+</svg>
