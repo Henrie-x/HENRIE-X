@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio-V1-test project illustration</title>
+  <desc id="desc">A portfolio-page wireframe showing an introduction, project grid, and contact area.</desc>
+  <rect width="1200" height="460" rx="24" fill="#0B0F19"/>
+  <rect x="30" y="30" width="1140" height="400" rx="18" fill="#111827" stroke="#1F2937"/>
+  <circle cx="62" cy="59" r="5" fill="#22D3EE"/>
+  <circle cx="82" cy="59" r="5" fill="#334155"/>
+  <circle cx="102" cy="59" r="5" fill="#334155"/>
+  <path d="M52 91H1148" stroke="#1F2937"/>
+  <rect x="70" y="126" width="670" height="184" rx="14" fill="#0B0F19" stroke="#1F2937"/>
+  <text x="102" y="171" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="22" letter-spacing="2">INTRODUCTION</text>
+  <path d="M102 199h350M102 220h420M102 241h270" stroke="#E5E7EB" stroke-opacity=".65" stroke-width="8" stroke-linecap="round"/>
+  <rect x="102" y="267" width="150" height="31" rx="15" fill="#164E63"/>
+  <text x="116" y="290" fill="#CFFAFE" font-family="system-ui, sans-serif" font-size="22">PROJECTS</text>
+  <rect x="766" y="126" width="334" height="184" rx="14" fill="#0F172A" stroke="#1F2937"/>
+  <text x="794" y="162" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">PROJECT INDEX</text>
+  <rect x="794" y="178" width="126" height="100" rx="9" fill="#172033"/>
+  <rect x="936" y="178" width="136" height="100" rx="9" fill="#172033"/>
+  <path d="M70 340H1100" stroke="#1F2937"/>
+  <text x="70" y="380" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="23" font-weight="600">Portfolio prototype</text>
+  <text x="70" y="410" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">SECTIONS · PROJECTS · CONTACT</text>
+  <circle cx="1070" cy="374" r="20" fill="#164E63"/>
+  <path d="M1062 374h16m-7-7 7 7-7 7" fill="none" stroke="#A5F3FC" stroke-width="2"/>
+</svg>
