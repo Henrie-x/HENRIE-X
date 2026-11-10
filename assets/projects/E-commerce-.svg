@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">E-commerce- project illustration</title>
+  <desc id="desc">A storefront concept with product tiles and a separate cart panel.</desc>
+  <rect width="1200" height="460" rx="24" fill="#0B0F19"/>
+  <text x="72" y="92" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="22" letter-spacing="2">STOREFRONT · PROTOTYPE</text>
+  <text x="72" y="148" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="36" font-weight="700">Browse to cart.</text>
+  <text x="72" y="188" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">Local sample products · browser cart state</text>
+  <rect x="72" y="225" width="638" height="164" rx="16" fill="#111827" stroke="#1F2937"/>
+  <g>
+    <rect x="94" y="247" width="172" height="120" rx="11" fill="#172033"/>
+    <rect x="282" y="247" width="172" height="120" rx="11" fill="#172033"/>
+    <rect x="470" y="247" width="216" height="120" rx="11" fill="#172033"/>
+    <circle cx="180" cy="297" r="28" fill="none" stroke="#22D3EE" stroke-width="7"/>
+    <path d="M337 279h63v38h-63z" fill="none" stroke="#A5F3FC" stroke-width="6"/>
+    <path d="M518 278h120M518 299h90M518 320h105" stroke="#334155" stroke-width="7" stroke-linecap="round"/>
+    <path d="M518 345h61" stroke="#22D3EE" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <rect x="756" y="70" width="372" height="320" rx="19" fill="#111827" stroke="#1F2937"/>
+  <text x="790" y="112" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="22" font-weight="600">CART</text>
+  <path d="M790 135h304" stroke="#1F2937"/>
+  <g fill="#172033">
+    <rect x="790" y="158" width="54" height="54" rx="9"/>
+    <rect x="790" y="232" width="54" height="54" rx="9"/>
+  </g>
+  <path d="M865 172h160M865 191h94M865 246h180M865 265h111" stroke="#64748B" stroke-width="6" stroke-linecap="round"/>
+  <path d="M790 312h304" stroke="#334155"/>
+  <text x="790" y="352" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">SUBTOTAL</text>
+  <path d="M1010 347h84" stroke="#22D3EE" stroke-width="6" stroke-linecap="round"/>
+</svg>

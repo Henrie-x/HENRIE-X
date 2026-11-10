@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Tic-Tac-Toe project illustration</title>
+  <desc id="desc">An original game-board illustration with X and O marks and a simple turn indicator.</desc>
+  <rect width="1200" height="460" rx="24" fill="#0B0F19"/>
+  <circle cx="972" cy="229" r="178" fill="#22D3EE" opacity=".05"/>
+  <text x="78" y="132" fill="#22D3EE" font-family="system-ui, sans-serif" font-size="22" letter-spacing="2">BROWSER GAME</text>
+  <text x="78" y="190" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="38" font-weight="700">A small board.</text>
+  <text x="78" y="238" fill="#E5E7EB" font-family="system-ui, sans-serif" font-size="38" font-weight="700">Clear decisions.</text>
+  <text x="78" y="286" fill="#9CA3AF" font-family="system-ui, sans-serif" font-size="22">Player modes · win checks · restart</text>
+  <rect x="758" y="66" width="360" height="328" rx="24" fill="#111827" stroke="#1F2937"/>
+  <g stroke="#334155" stroke-width="4">
+    <path d="M878 114v232M998 114v232M794 190h288M794 270h288"/>
+  </g>
+  <g fill="none" stroke="#22D3EE" stroke-width="8" stroke-linecap="round">
+    <path d="m815 134 40 40m0-40-40 40M1019 290l40 40m0-40-40 40"/>
+  </g>
+  <circle cx="938" cy="230" r="24" fill="none" stroke="#A5F3FC" stroke-width="8"/>
+  <circle cx="818" cy="310" r="24" fill="none" stroke="#A5F3FC" stroke-width="8" opacity=".55"/>
+  <text x="78" y="372" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">X / O · 3 × 3 · REPLAY</text>
+</svg>
