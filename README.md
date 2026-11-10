@@ -83,6 +83,12 @@ An e-commerce storefront prototype with local sample product data and browser-st
 
 <img src="assets/dividers/section-rule.svg" alt="" width="100%">
 
+## About me
+
+My projects are a way to make software concepts tangible: a game’s rules, a movie search, or a cart that keeps its state. I’m building toward full-stack AI product engineering, with JavaScript and React practice alongside Python fundamentals and PostgreSQL.
+
+<img src="assets/dividers/section-rule.svg" alt="" width="100%">
+
 ## GitHub activity
 
 <p align="center">
