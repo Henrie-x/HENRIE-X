@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Henrie — light portfolio banner</title>
+  <desc id="desc">A light, cyan-accented portfolio banner naming Henrie and the direction Aspiring Full-Stack AI Product Engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#E8F4F7"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0891B2" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <circle cx="1020" cy="80" r="220" fill="url(#glow)"/>
+  <path d="M0 285C230 238 330 334 570 278s388-82 630-5" fill="none" stroke="#0891B2" stroke-opacity=".24"/>
+  <path d="M0 306C235 260 360 354 590 299s390-77 610-10" fill="none" stroke="#0891B2" stroke-opacity=".12"/>
+  <g fill="#0891B2" opacity=".8">
+    <circle cx="1000" cy="118" r="3"/><circle cx="1065" cy="154" r="2"/>
+    <circle cx="930" cy="203" r="2"/><circle cx="1115" cy="92" r="2"/>
+  </g>
+  <text x="84" y="146" fill="#111827" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Henrie</text>
+  <rect x="88" y="177" width="44" height="3" rx="2" fill="#0891B2"/>
+  <text x="88" y="224" fill="#0E7490" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600">Aspiring Full-Stack AI Product Engineer</text>
+  <text x="88" y="267" fill="#475569" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" letter-spacing="3">BUILDING · TESTING · REFINING</text>
+</svg>
